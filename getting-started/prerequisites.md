@@ -1,6 +1,15 @@
 # สิ่งที่ต้องเตรียม
 
-ก่อนที่จะสมัครสมาชิกศรีกรุงโบรคเกอร์ หากท่านเตรียมสิ่งต่างๆ เหล่านี้ให้พร้อม จะทำให้ท่านสามารถทำการสมัครสมาชิกได้อย่างรวดเร็ว และไม่ติดขัดในระหว่างการดำเนินการ
+**อุปกรณ์ที่สามารถใช้งานต้องมีกล้องเพื่อรองรับการถ่ายรูปยืนยันตัวตน**
++	คอมพิวเตอร์ (Computer , Notebook)
++ แท็บเลต (Tablet,IPad)
++	สมาร์ทโฟน (Smart Phone)
+
+**ข้อมูลและเอกสารที่ต้องเตรียม**
++ บัตรประชาชน
++ เลขบัตรนายหน้า (ถ้ามี)
++ เลขบัญชีธนาคาร
+
 
 {% hint style="info" %}
 Want to learn about writing content from scratch? Head to the [Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
