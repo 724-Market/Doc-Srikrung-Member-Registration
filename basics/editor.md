@@ -2,7 +2,8 @@
 
 GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://hilight.kapook.com/img_cms2/user/fontip/etc5/hello-kitty-widescreen-wallpaper_1920x1200_86309_1.jpg" alt=""><figcaption></figcaption></figure>
+
 
 ### Writing content
 
