@@ -145,9 +145,42 @@
 ### ข้อมูลผู้รับผลประโยชน์ของประกันอุบัติเหตุส่วนบุคคล
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=150lizdZZWq57Uo_6rI3TTB2lAdeBF1wx" alt="" style="width: 70%; max-width: 200px;">
+    <img src="https://drive.google.com/uc?export=view&id=1Sgu4u1AWsDKUuyQ0Z15XGONlcNZfktPo" alt="" style="width: 70%; max-width: 200px;">
     <figcaption></figcaption>
 </figure>
 
 ประกันอุบัติเหตุส่วนบุคคล (PA) จะแสดงข้อมูลเบื้องต้นตามแพ็คเกจเริ่มต้นตามอายุของผู้สมัคร หากผู้สมัครต้องการเพิ่มความคุ้มครองหรือเลือกแผนที่มีค่ารักษาพยาบาล กดปุ่ม "เพิ่มความคุ้มครอง" ระบบจะแสดงหน้าต่างเพิ่มความคุ้มครอง
 
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1jfihNK-FoKke06gVTFL6J9gQldOOfmaJ" alt="" style="width: 70%; max-width: 200px;">
+    <figcaption></figcaption>
+</figure>
+
+**กรณีเลือกเพิ่มความคุ้มครองประกันอุบัติเหตุส่วนบุคคล**
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=150lizdZZWq57Uo_6rI3TTB2lAdeBF1wx" alt="" style="width: 70%; max-width: 200px;">
+    <figcaption></figcaption>
+</figure>
+
+หลังจากเลือกข้อมูลเสร็จสิ้นแล้ว ระบบจะแสดงข้อมูลแผนประกันอุบัติเหตุส่วนบุคคล (PA) ที่เพิ่มความคุ้มครอง และแสดงข้อมูลผู้รับผลประโยชน์คือ ทายาทโดยธรรม หลังจากผู้สมัครกดปุ่ม "ขั้นตอนต่อไป" เพื่อเข้าสู่ขั้นตอนการยืนยันตัวตน
+
+### การยืนยันตัวตนทางอิเล็กทรอนิกส์ (E-KYC)
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1ILQ1cIOyQGFNg7oFnv8OGhwBQgYg13Cj" alt="" style="width: 70%; max-width: 200px;">
+    <figcaption></figcaption>
+</figure>
+
+ขั้นตอนการยืนยันตัวตนทางอิเล็กทรอนิกส์ (E-KYC) ต้องทำรายการ ดังนี้ คลิกปุ่ม "คลิกเพื่อเปิดกล้อง" เพื่อให้ระบบเข้าถึงการใช้งานกล้องบนอุปกรณ์ของผู้ใช้งาน
+
+ขั้นตอนที่ 1 ถ่ายรูปบัตรประชาชน
+
+- เปิดเผยข้อมูลบนบัตรประชาชนเฉพาะ
+  - เลขที่บัตรประจำตัวประชาชน 13 หลัก
+  - ชื่อและนามสกุล
+  - ภาพใบหน้าบนบัตรประชาชน
+- จัดบัตรประชาชนให้อยู่ภายในกรอบที่กำหนด
+- ถ่ายรูปในที่ที่มีแสงสว่างเพียงพอ ไม่สว่างหรือมีดจนเกินไป
+- รูปถ่ายด้านหน้าบัตรประชาชนต้องชัดเจน ไม่มีรอยขูดขีด
+- หลีกเลี่ยงแสงสะท้อนที่อาจเกิดขึ้นบนตัวบัตรประชาชน
