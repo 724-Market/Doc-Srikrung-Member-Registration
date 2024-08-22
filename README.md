@@ -23,8 +23,46 @@ Welcome to the GitBook Starter Template! Here you'll get an overview of all the 
 
 You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
 
-### สิ่งที่ต้องเตรียม
+### ช่องทางลัด
 
-ก่อนที่จะสมัครสมาชิกศรีกรุงโบรคเกอร์ หากท่านเตรียมสิ่งต่างๆ เหล่านี้ให้พร้อม จะทำให้ท่านสามารถทำการสมัครสมาชิกได้อย่างรวดเร็ว และไม่ติดขัดในการดำเนินการ
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td><a href=".gitbook/assets/1.png">1.png</a></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td><a href=".gitbook/assets/2.png">2.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td><a href=".gitbook/assets/3.png">3.png</a></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-cover data-type="files"></th>
+      <th data-hidden></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>เตรียมพร้อมก่อนสมัคร</strong></td>
+      <td>รายการสิ่งที่ต้องมีก่อนเริ่มกระบวนการ</td>
+      <td><a href=".gitbook/assets/1.png">1.png</a></td>
+      <td></td>
+      <td><a href="getting-started/prerequisites.md">เตรียมพร้อมก่อนสมัคร</a></td>
+    </tr>
+    <tr>
+      <td><strong>ขั้นตอนการสมัคร</strong></td>
+      <td>คำแนะนำทีละขั้นตอนในการกรอกใบสมัคร</td>
+      <td><a href=".gitbook/assets/2.png">2.png</a></td>
+      <td></td>
+      <td><a href="registration/overview.md">ขั้นตอนการสมัคร</a></td>
+    </tr>
+    <tr>
+      <td><strong>ติดตามสถานะใบสมัคร</strong></td>
+      <td>วิธีตรวจสอบความคืบหน้าของการสมัคร</td>
+      <td><a href=".gitbook/assets/3.png">3.png</a></td>
+      <td></td>
+      <td><a href="others/status.md">ติดตามสถานะใบสมัคร</a></td>
+    </tr>
+    <tr>
+      <td><strong>คำถามที่พบบ่อย</strong></td>
+      <td>ข้อสงสัยทั่วไปและคำตอบโดยละเอียด</td>
+      <td><a href=".gitbook/assets/4.png">4.png</a></td>
+      <td></td>
+      <td><a href="others/faqs.md">คำถามที่พบบ่อย</a></td>
+    </tr>
+  </tbody>
+</table>

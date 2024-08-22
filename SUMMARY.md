@@ -1,6 +1,20 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [ยินดีต้อนรับ](README.md)
+
+## เตรียมตัวก่อนสมัคร
+
+* [เตรียมพร้อมก่อนสมัคร](getting-started/prerequisites.md)
+
+## ขั้นตอนการสมัคร
+
+* [ภาพรวมการสมัครสมาชิก](registration/overview.md)
+* [ตรวจสอบสถานะ](registration/verification.md)
+
+## อื่นๆ
+
+* [ติดตามสถานะใบสมัคร](others/status.md)
+* [คำถามที่พบบ่อย](others/faqs.md)
 
 ## Getting Started
 
