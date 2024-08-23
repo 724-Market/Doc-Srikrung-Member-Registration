@@ -107,6 +107,24 @@
 หากผู้สมัครต้องการรับค่าผลประโยชน์ภายหลังจากการเป็นสมาชิกผู้สมัครสามารถแจ้งเปลี่ยนเป็นธนาคารกสิกรไทย จำกัด (มหาชน) ได้ในภายหลัง
 ```
 
+{% hint style="info" %}
+If you have multiple files, GitBook makes it easy to import full repositories too — allowing you to keep your GitBook content in sync.
+{% endhint %}
+
+{% hint style="success" %}
+If you have multiple files, GitBook makes it easy to import full repositories too — allowing you to keep your GitBook content in sync.
+{% endhint %}
+
+{% hint style="warning" %}
+If you have multiple files, GitBook makes it easy to import full repositories too — allowing you to keep your GitBook content in sync.
+{% endhint %}
+
+{% hint style="danger" %}
+If you have multiple files, GitBook makes it easy to import full repositories too — allowing you to keep your GitBook content in sync.
+{% endhint %}
+
+> If you have multiple files, GitBook makes it easy to import full repositories too — allowing you to keep your GitBook content in sync.
+
 ### ข้อมูลบัตรนายหน้า
 (ในกรณีไม่มีไม่ต้องกรอกข้อมูล)
 <figure>
