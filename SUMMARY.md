@@ -13,7 +13,7 @@
 
 ## อื่นๆ
 
-* [ติดตามสถานะใบสมัคร](others/status.md)
+* [ติดตามสถานะใบสมัคร](undefined-2/undefined.md)
 * [คำถามที่พบบ่อย](others/faqs.md)
 
 ## Getting Started
