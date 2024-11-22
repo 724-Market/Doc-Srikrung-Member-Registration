@@ -1,22 +1,47 @@
-# คำถามที่พบบ่อย
+# คำถามที่พบบ่อย (FAQs)
 
-In addition to the default Markdown you can write, GitBook has a number of out-of-the-box interactive blocks you can use. You can find interactive blocks by pressing `/` from within the editor.
+**อัปเดตล่าสุด:** 22 พฤศจิกายน 2567
 
-### Expandable sections
+**คำถามที่ถูกถามมากที่สุด**
 
 <details>
 
-<summary>Click me to expand</summary>
+<summary><strong>สมัครสมาชิกศรีกรุงใช้เวลากี่วันจึงจะทราบผล?</strong></summary>
 
-Expandable blocks are helpful in condensing what could otherwise be a lengthy paragraph. They are also great in step-by-step guides and FAQs.
+\- หากสมัครก่อน 16:00 น. จะทราบผลการสมัครภายในวันเดียวกัน
+
+\- หากสมัครหลัง 16:00 น. จะทราบผลการสมัครภายวันถัดไป
 
 </details>
 
-### Embedded content
+<details>
 
-{% embed url="https://www.youtube.com/watch?v=YILlrDYzAm4" %}
+<summary><strong>ในกรณีการยืนยันตัวตน (E-KYC) ผลการยืนยันตัวตน: ไม่ผ่านเกณฑ์ สมัครได้มั้ย?</strong></summary>
+
+สามารถสมัครได้ แม้ผลการยืนยันตัวตน (E-KYC) จะไม่ผ่านเกณฑ์ โดยระบบจะส่งข้อมูลของคุณไปยังเจ้าหน้าที่เพื่อทำการตรวจสอบและพิจารณาอนุมัติอีกครั้ง
+
+</details>
+
+<details>
+
+<summary><strong>ช่องทางในการทราบผลการสมัคร มีกี่ช่องทาง?</strong></summary>
+
+สามารถทราบผลการสมัครผ่าน SMS ที่ส่งไปยังหมายเลขโทรศัพท์ที่ใช้ลงทะเบียนไว้
+
+</details>
+
+<details>
+
+<summary><strong>แชร์ Link สมัครแบบ Affiliate แล้วข้อมูลผู้แนะนำไม่ขึ้น?</strong></summary>
+
+สาเหตุอาจเกิดจากสถานะ Affiliate ของผู้แนะนำหมดอายุ ต้องต่ออายุสมาชิกก่อนเพื่อให้ข้อมูลและรูปแสดงตามปกติ โดยจะสามารถใช้ได้ในวันถัดไปหลังจากต่ออายุ
+
+</details>
 
 {% hint style="info" %}
-GitBook supports thousands of embedded websites out-of-the-box, simply by pasting their links. Feel free to check out which ones[ are supported natively](https://iframely.com).
+**รู้หรือไม่การเชื่อมต่อกับ 724 Connext เพิ่มความสะดวกสบายได้มากกว่าเดิม**
+
+เพียงเชื่อมต่อกับ **724 Connext** เพื่อรับบริการที่ง่ายและสะดวกกว่าเดิม ไม่ว่าจะเป็นการตรวจสอบสถานะการสมัคร การติดตามข้อมูล หรือการรับบริการอื่น ๆ ที่เกี่ยวข้อง.
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/Screen Shot 2024-11-22 at 4.59.21 PM.png" alt="" width="255"><figcaption></figcaption></figure>
