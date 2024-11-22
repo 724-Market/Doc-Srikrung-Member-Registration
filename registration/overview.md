@@ -99,13 +99,6 @@
 - วันออกใบอนุญาต
 - วันใบอนุญาตหมดอายุ
 
-<figure>
-    <img src="https://drive.google.com/uc?export=view&id=1ooCvWd-cYShLD51kkR1U_KZrn_S1Nb_K" alt="" style="width: 70%; max-width: 300px;">
-    <figcaption></figcaption>
-</figure>
-
-ในกรณีไม่มีไม่ต้องกรอกข้อมูล กดปุ่ม "ไปต่อ" ระบบจะแสดงส่วนของ ข้อกำหนดและเงื่อนไขการเป็นสมาชิก ให้ทำรายการ
-
 ### ข้อมูลธนาคาร
 
 ขั้นตอนการกรอกข้อมูลธนาคาร โดยผู้สมัครต้องกรอกข้อมูล ดังนี้
@@ -115,6 +108,15 @@
 - สาขา
 - เลขบัญชี
 
+ในกรณีไม่มีไม่ต้องกรอกข้อมูล
+
+  <figure>
+    <img src="https://drive.google.com/uc?export=view&id=1ooCvWd-cYShLD51kkR1U_KZrn_S1Nb_K" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
+ กดปุ่ม "ไปต่อ" ระบบจะแสดงส่วนของ ข้อกำหนดและเงื่อนไขการเป็นสมาชิก ให้ทำรายการ
+ 
 ### ข้อกำหนดและเงื่อนไขการเป็นสมาชิก
 
 <figure>
