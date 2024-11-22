@@ -1,28 +1,21 @@
 # Table of contents
 
-* [ยินดีต้อนรับ](README.md)
+* [แนะนำบริการ](introduction/welcome.md)
 
-## เตรียมตัวก่อนสมัคร
+## เริ่มต้นการสมัคร
 
 * [เตรียมพร้อมก่อนสมัคร](getting-started/prerequisites.md)
-
-## ขั้นตอนการสมัคร
-
-* [ภาพรวมการสมัครสมาชิก](registration/overview.md)
-* [ตรวจสอบสถานะ](registration/verification.md)
+* [ขั้นตอนในการสมัคร](registration/overview.md)
+* [ติดตามสถานะการสมัคร](registration/verification.md)
 
 ## อื่นๆ
 
-* [ติดตามสถานะใบสมัคร](undefined-2/undefined.md)
 * [คำถามที่พบบ่อย](others/faqs.md)
 
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
 * [Editor](basics/editor.md)
 * [Markdown](basics/markdown.md)
 * [Images & media](basics/images-and-media.md)
