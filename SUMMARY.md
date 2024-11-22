@@ -14,7 +14,7 @@
 ## อื่นๆ
 
 * [ติดตามสถานะใบสมัคร](undefined-2/undefined.md)
-* [คำถามที่พบบ่อย](others/faqs.md)
+* [คำถามที่พบบ่อย (FAQs)](others/faqs.md)
 
 ## Getting Started
 
