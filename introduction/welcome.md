@@ -40,28 +40,28 @@
     <tr>
       <td><strong>เตรียมพร้อมก่อนสมัคร</strong></td>
       <td>สิ่งที่ควรทราบก่อนเริ่มการสมัคร</td>
-      <td><a href="registration/prerequisites.md">registration/prerequisites.md</a></td>
+      <td><a href="../registration/prerequisites.md">registration/prerequisites.md</a></td>
       <td><a href="../.gitbook/assets/1.png">1.png</a></td>
       <td></td>
     </tr>
     <tr>
       <td><strong>ขั้นตอนในการสมัคร</strong></td>
       <td>คำแนะนำในการสมัครทีละขั้นตอน</td>
-      <td><a href="registration/registration.md">registration/registration.md</a></td>
+      <td><a href="../registration/registration.md">registration/registration.md</a></td>
       <td><a href="../.gitbook/assets/2.png">2.png</a></td>
       <td></td>
     </tr>
     <tr>
       <td><strong>ติดตามสถานะการสมัคร</strong></td>
       <td>วิธีตรวจสอบความคืบหน้าและผลของการสมัคร</td>
-      <td><a href="registration/status.md">registration/status.md</a></td>
+      <td><a href="../registration/status.md">registration/status.md</a></td>
       <td><a href="../.gitbook/assets/3.png">3.png</a></td>
       <td></td>
     </tr>
     <tr>
       <td><strong>คำถามที่พบบ่อย</strong></td>
       <td>ข้อสงสัยทั่วไปและคำตอบโดยละเอียด</td>
-      <td><a href="others/faqs.md">others/faqs.md</a></td>
+      <td><a href="../others/faqs.md">others/faqs.md</a></td>
       <td><a href="../.gitbook/assets/4.png">4.png</a></td>
       <td></td>
     </tr>
