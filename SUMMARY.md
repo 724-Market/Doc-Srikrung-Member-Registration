@@ -4,9 +4,9 @@
 
 ## เริ่มต้นการสมัคร
 
-* [เตรียมพร้อมก่อนสมัคร](getting-started/prerequisites.md)
-* [ขั้นตอนในการสมัคร](registration/overview.md)
-* [ติดตามสถานะการสมัคร](registration/verification.md)
+* [เตรียมพร้อมก่อนสมัคร](registration/prerequisites.md)
+* [ขั้นตอนในการสมัคร](registration/registration.md)
+* [ติดตามสถานะการสมัคร](registration/status.md)
 
 ## อื่นๆ
 
