@@ -1,6 +1,6 @@
 # Table of contents
 
-* [แนะนำบริการ](introduction/welcome.md)
+* [แนะนำบริการ](README.md)
 
 ## เริ่มต้นการสมัคร
 
