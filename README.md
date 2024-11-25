@@ -35,7 +35,7 @@ layout:
 ### คุณพร้อมสมัครสมาชิกหรือยัง?
 
 {% hint style="info" %}
-หากคุณตัดสินใจสมัครสมาชิกศรีกรุงโบรคเกอร์ สามารถทำตามขั้นตอนที่อธิบายไว้อย่างละเอียดได้ที่ลิงก์ด้านล่าง!
+หากคุณตัดสินใจสมัครสมาชิกศรีกรุงโบรคเกอร์ สามารถทำตามขั้นตอนที่อธิบายไว้อย่างละเอียดได้ที่หัวข้อด้านล่างได้เลย
 {% endhint %}
 
 ## ช่องทางลัด
@@ -61,7 +61,7 @@ layout:
     <tr>
       <td><strong>ขั้นตอนในการสมัคร</strong></td>
       <td>คำแนะนำในการสมัครทีละขั้นตอน</td>
-      <td><a href="registration/registration.md">registration/registration.md</a></td>
+      <td><a href="registration/process.md">registration/process.md</a></td>
       <td><a href=".gitbook/assets/2.png">2.png</a></td>
       <td></td>
     </tr>

@@ -61,7 +61,7 @@ layout:
     <tr>
       <td><strong>ขั้นตอนในการสมัคร</strong></td>
       <td>คำแนะนำในการสมัครทีละขั้นตอน</td>
-      <td><a href="../registration/registration.md">registration/registration.md</a></td>
+      <td><a href="../registration/process.md">registration/process.md</a></td>
       <td><a href="../.gitbook/assets/2.png">2.png</a></td>
       <td></td>
     </tr>

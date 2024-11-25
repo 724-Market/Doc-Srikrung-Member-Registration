@@ -5,7 +5,7 @@
 ## เริ่มต้นการสมัคร
 
 * [เตรียมพร้อมก่อนสมัคร](registration/prerequisites.md)
-* [ขั้นตอนในการสมัคร](registration/registration.md)
+* [ขั้นตอนในการสมัคร](registration/process.md)
 * [ติดตามสถานะการสมัคร](registration/status.md)
 
 ## อื่นๆ
