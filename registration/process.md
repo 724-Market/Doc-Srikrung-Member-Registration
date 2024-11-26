@@ -16,86 +16,77 @@ layout:
 
 สำหรับการสมัครสมาชิกศรีกรุงโบรคเกอร์ คุณสามารถทำได้โดยเปิดเว็บเบราว์เซอร์แล้วพิมพ์ที่อยู่ (URL) ต่อไปนี้
 
-> **[ag.724.co.th/srikrung](https://ag.724.co.th/srikrung)**
-> **[bit.ly/srikrung-registration](https://bit.ly/srikrung-registration)**
-> หรือสแกน QR ด้านล่าง
-
-<figure>
-  <img src="../.gitbook/assets/bit.ly_srikrung-registration.png" alt="">
-  <figcaption>QR Code สำหรับสมัครสมาชิกศรีกรุงโบรคเกอร์</figcaption>
-</figure>
+> [**ag.724.co.th/srikrung**](https://ag.724.co.th/srikrung)
+>
+> หรือ
+>
+> [**bit.ly/srikrung-registration**](https://bit.ly/srikrung-registration)
+>
+> หรือ
+>
+> สแกน QR ด้านล่าง
+>
+> <img src="../.gitbook/assets/bit.ly_srikrung-registration.png" alt="" data-size="original">
 
 เมื่อเข้าลิงก์ คุณจะพบหน้าจอเริ่มต้นที่มีลักษณะดังนี้
 
-<figure>
-  <img src="../.gitbook/assets/verify-member.png" alt="">
-  <figcaption>หน้าจอเริ่มต้นสำหรับสมัครสมาชิกศรีกรุงโบรคเกอร์</figcaption>
-</figure>
+<figure><img src="../.gitbook/assets/verify-member.png" alt=""><figcaption><p>หน้าจอเริ่มต้นสำหรับสมัครสมาชิกศรีกรุงโบรคเกอร์</p></figcaption></figure>
 
----
+***
 
 ### กรณีได้รับลิงก์จากผู้แนะนำ
 
 หากคุณได้รับลิงก์สมัครสมาชิกจาก **ผู้แนะนำ** หน้าจอจะแสดงข้อมูลของผู้แนะนำ เช่น ชื่อและรายละเอียดอื่นๆ โปรดตรวจสอบให้แน่ใจว่าเป็นผู้แนะนำของคุณ
 
-- หากข้อมูลถูกต้อง: สามารถดำเนินการสมัครต่อได้ทันที
-- หากข้อมูลไม่ถูกต้อง: กรุณาติดต่อผู้แนะนำของคุณก่อนดำเนินการสมัคร
+* หากข้อมูลถูกต้อง: สามารถดำเนินการสมัครต่อได้ทันที
+* หากข้อมูลไม่ถูกต้อง: กรุณาติดต่อผู้แนะนำของคุณก่อนดำเนินการสมัคร
 
 ตัวอย่างหน้าจอกรณีมีข้อมูลผู้แนะนำ
 
-<figure>
-  <img src="https://drive.google.com/uc?export=view&#x26;id=1h0AsX0rHI0IH3sOkVK5A6wEcyhBm_beo" alt="">
-  <figcaption>กรณีมีผู้แนะนำ หน้าจอจะแสดงข้อมูลของผู้แนะนำ</figcaption>
-</figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1h0AsX0rHI0IH3sOkVK5A6wEcyhBm_beo" alt=""><figcaption><p>กรณีมีผู้แนะนำ หน้าจอจะแสดงข้อมูลของผู้แนะนำ</p></figcaption></figure>
 
----
+***
 
 ### ตรวจสอบข้อมูลผู้สมัคร
 
 ขั้นตอนแรกของการสมัครคือการตรวจสอบหมายเลขบัตรประชาชนของผู้สมัคร
-- หากตรวจสอบแล้ว **สามารถสมัครได้** ระบบจะนำคุณไปยังหน้ากรอกข้อมูลส่วนตัว
-- หากตรวจสอบแล้ว **ไม่สามารถสมัครได้** ระบบจะแสดงเหตุผล เช่น คุณเป็นสมาชิกอยู่แล้ว
 
-<figure>
-  <img src="../.gitbook/assets/already-member.png" alt="">
-  <figcaption>กรณีไม่สามารถสมัครสมาชิกได้</figcaption>
-</figure>
+* หากตรวจสอบแล้ว **สามารถสมัครได้** ระบบจะนำคุณไปยังหน้ากรอกข้อมูลส่วนตัว
+* หากตรวจสอบแล้ว **ไม่สามารถสมัครได้** ระบบจะแสดงเหตุผล เช่น คุณเป็นสมาชิกอยู่แล้ว
 
----
+<figure><img src="../.gitbook/assets/already-member.png" alt=""><figcaption><p>กรณีไม่สามารถสมัครสมาชิกได้</p></figcaption></figure>
+
+***
 
 ### ข้อมูลผู้สมัคร
 
-<figure>
-  <img src="../.gitbook/assets/preliminary-registration.png" alt="">
-  <figcaption>หน้ากรอกข้อมูลผู้สมัคร</figcaption>
-</figure>
+<figure><img src="../.gitbook/assets/preliminary-registration.png" alt=""><figcaption><p>หน้ากรอกข้อมูลผู้สมัคร</p></figcaption></figure>
 
 กรุณากรอกข้อมูลให้ครบถ้วนและถูกต้อง โดยข้อมูลที่ต้องกรอกได้แก่
-- คำนำหน้า
-- ชื่อ
-- นามสกุล
-- เลขบัตรประชาชน
-- หมายเลขโทรศัพท์ที่สามารถรับ OTP ได้ (**1 หมายเลข ต่อ 1 ผู้สมัคร**)
+
+* คำนำหน้า
+* ชื่อ
+* นามสกุล
+* เลขบัตรประชาชน
+* หมายเลขโทรศัพท์ที่สามารถรับ OTP ได้ (**1 หมายเลข ต่อ 1 ผู้สมัคร**)
 
 เมื่อกรอกข้อมูลครบแล้ว กดปุ่ม **"ขั้นตอนต่อไป"** เพื่อยืนยันหมายเลขโทรศัพท์ผ่าน OTP
 
----
+***
 
 ### ยืนยัน OTP
 
-<figure>
-  <img src="../.gitbook/assets/otp-verification.png" alt="">
-  <figcaption>ยืนยันหมายเลขโทรศัพท์ด้วย OTP</figcaption>
-</figure>
+<figure><img src="../.gitbook/assets/otp-verification.png" alt=""><figcaption><p>ยืนยันหมายเลขโทรศัพท์ด้วย OTP</p></figcaption></figure>
 
 เพื่อความปลอดภัย ระบบจะส่งรหัส OTP (6 หลัก) ไปยังหมายเลขโทรศัพท์ที่คุณระบุไว้
+
 1. ตรวจสอบรหัสอ้างอิง (REFCODE) บนหน้าจอให้ตรงกับในข้อความ OTP
 2. หากรหัสตรงกัน ให้กรอกรหัส OTP ภายในเวลาที่กำหนด (5 นาที)
 3. หากไม่ได้รับ OTP สามารถกด **"ส่งรหัส OTP อีกครั้ง"** หลังเวลาที่หน้าจอกำหนด
 
 หลังจากกรอก OTP ให้กดปุ่ม **"ยืนยันรหัส OTP"** เพื่อไปยังขั้นตอนถัดไป
 
----
+***
 
 ในการสมัครสมาชิกศรีกรุงโบรคเกอร์ เริ่มต้นจากพิมพ์ URL เพื่อเข้าสู่หน้าเว็บไซด์ของระบบคือ [https://ag.724.co.th/srikrung](https://ag.724.co.th/srikrung) ระบบจะแสดงหน้าจอการทำงานแบ่งออกเป็น 2 กรณี
 
