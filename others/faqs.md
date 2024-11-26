@@ -45,11 +45,11 @@ layout:
 
 </details>
 
-{% hint style="info" %}
+{% hint style="success" %}
 **เพิ่มความสะดวกด้วย 724 Connext**  
 
 เพียงเชื่อมต่อกับ **724 Connext** เพื่อรับบริการที่ง่ายและสะดวกยิ่งขึ้น เช่น การตรวจสอบสถานะการสมัคร การติดตามข้อมูล หรือบริการอื่น ๆ ที่เกี่ยวข้อง  
 
-<figure><img src="../.gitbook/assets/Screen Shot 2024-11-22 at 4.59.21 PM.png" alt="" width="255"><figcaption></figcaption></figure>
+<figure><a href="https://lin.ee/3sktdef" target="_blank"><img src="../.gitbook/assets/add-line-724training.png" alt=""></a></figure>
 
 {% endhint %}
