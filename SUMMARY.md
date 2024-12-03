@@ -11,7 +11,6 @@
 ## อื่นๆ
 
 * [คำถามที่พบบ่อย](others/faqs.md)
-* [ขั้นตอนในการสมัครเก่า](process.md)
 
 ## Getting Started
 
