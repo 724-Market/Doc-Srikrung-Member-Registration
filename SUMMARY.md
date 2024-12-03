@@ -6,12 +6,12 @@
 
 * [เตรียมพร้อมก่อนสมัคร](registration/prerequisites.md)
 * [ขั้นตอนในการสมัคร](registration/process.md)
-* [ขั้นตอนในการสมัครเก่า](process.md)
 * [ติดตามสถานะการสมัคร](registration/status.md)
 
 ## อื่นๆ
 
-* [คำถามที่พบบ่อย](faqs.md)
+* [คำถามที่พบบ่อย](others/faqs.md)
+* [ขั้นตอนในการสมัครเก่า](process.md)
 
 ## Getting Started
 
