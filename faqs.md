@@ -55,6 +55,8 @@ layout:
 
 </details>
 
+<details>
+
 <summary><strong>สแกน QR Code แล้วไม่สามารถชำระค่าสมาชิกได้?</strong></summary>
 
 QR Code อาจหมดอายุ ให้เข้าสู่ระบบเพื่อสร้าง QR Code ใหม่ที่ [**ag.724.co.th/srikrung**](https://ag.724.co.th/srikrung) หรือ [**bit.ly/srikrung-registration**](https://bit.ly/srikrung-registration)
