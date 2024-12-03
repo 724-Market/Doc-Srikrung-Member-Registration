@@ -11,7 +11,6 @@
 
 ## อื่นๆ
 
-* [คำถามที่พบบ่อย](others/faqs.md)
 * [คำถามที่พบบ่อย](faqs.md)
 
 ## Getting Started
