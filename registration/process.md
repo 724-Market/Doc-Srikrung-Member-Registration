@@ -295,7 +295,7 @@ layout:
 
 ระบบจะแสดงข้อมูลทั้งหมดของผู้สมัครเพื่อตรวจสอบ หากต้องการแก้ไขข้อมูลใด ให้กด **"แก้ไขข้อมูล"** ในหัวข้อที่ต้องการ
 
-ตัวอย่างการแก้ไขข้อมูลธนาคาร
+ตัวอย่าง หากต้องการแก้ไขข้อมูลธนาคาร ให้ไปที่หัวข้อ **ข้อมูลธนาคาร** แล้วกดปุ่ม **"แก้ไขข้อมูล"**
 
 <figure><img src="../.gitbook/assets/edit-bank.png" alt=""><figcaption><p>ตัวอย่างหน้าจอการแก้ไขข้อมูลธนาคาร</p></figcaption></figure>
 
@@ -315,7 +315,7 @@ layout:
 
 ### การชำระเงิน <a href="#payment" id="payment"></a>
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1_FEQc9-hS5CwyrRVnSVg2Y8cJMiYTAYC" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payment-qr.png" alt=""><figcaption><p>หน้าจอแสดง QR Code สำหรับการชำระเงิน</p></figcaption></figure>
 
 ผู้สมัครสามารถสแกน QR Code ด้วยแอปพลิเคชันธนาคารเพื่อทำการชำระเงิน  
 
@@ -323,6 +323,11 @@ layout:
 - หากใช้อุปกรณ์อื่น: สแกน QR Code ผ่านสมาร์ทโฟน  
 
 เมื่อชำระเงินสำเร็จ ระบบจะแสดงสถานะ **รอการอนุมัติ** หากยังคงแสดง QR Code ให้กด **"ตรวจสอบสถานะการชำระเงิน"** เพื่อตรวจสอบอีกครั้ง
+
+{% hint style="warning" %}
+**หมายเหตุ:**  
+QR Code มีอายุ 48 ชั่วโมง กรุณาชำระเงินภายในเวลาที่กำหนด
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/thanks.png" alt=""><figcaption><p>ชำระเงินสำเร็จและรอการอนุมัติ</p></figcaption></figure>
 
