@@ -2,13 +2,13 @@
 
 * [แนะนำบริการ](README.md)
 
-## เริ่มต้นการสมัคร
+## เริ่มต้นการสมัคร <a href="#registration" id="registration"></a>
 
 * [เตรียมพร้อมก่อนสมัคร](registration/prerequisites.md)
 * [ขั้นตอนในการสมัคร](registration/process.md)
 * [ติดตามสถานะการสมัคร](registration/status.md)
 
-## อื่นๆ
+## อื่นๆ <a href="#others" id="others"></a>
 
 * [คำถามที่พบบ่อย](others/faqs.md)
 
