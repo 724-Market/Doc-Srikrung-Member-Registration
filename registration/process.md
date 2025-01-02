@@ -37,7 +37,7 @@ layout:
 
 ตัวอย่างหน้าจอกรณีมีข้อมูลผู้แนะนำ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1h0AsX0rHI0IH3sOkVK5A6wEcyhBm_beo" alt=""><figcaption><p>กรณีมีผู้แนะนำ หน้าจอจะแสดงข้อมูลของผู้แนะนำ</p></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&id=1nD0TQtu7iMaz6qMhtK8PfEnCguMLMfiT" alt=""><figcaption><p>กรณีมีผู้แนะนำ หน้าจอจะแสดงข้อมูลของผู้แนะนำ</p></figcaption></figure>
 
 ***
 
