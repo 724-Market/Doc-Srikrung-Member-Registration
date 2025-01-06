@@ -16,9 +16,7 @@ layout:
 
 สำหรับการสมัครสมาชิกศรีกรุงโบรคเกอร์ คุณสามารถทำได้โดยเปิดเว็บเบราว์เซอร์แล้วพิมพ์ที่อยู่ (URL) ต่อไปนี้
 
-> [**ag.724.co.th/srikrung**](https://ag.724.co.th/srikrung) หรือ [**bit.ly/srikrung-registration**](https://bit.ly/srikrung-registration)
->
-> หรือสแกน QR ด้านล่าง
+> [**ag.724.co.th/srikrung**](https://ag.724.co.th/srikrung) หรือสแกน QR ด้านล่าง
 >
 > <img src="../.gitbook/assets/bit.ly_srikrung-registration.png" alt="" data-size="original">
 
@@ -37,7 +35,7 @@ layout:
 
 ตัวอย่างหน้าจอกรณีมีข้อมูลผู้แนะนำ
 
-<figure><img src="https://drive.google.com/uc?export=view&id=1nD0TQtu7iMaz6qMhtK8PfEnCguMLMfiT" alt=""><figcaption><p>กรณีมีผู้แนะนำ หน้าจอจะแสดงข้อมูลของผู้แนะนำ</p></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1nD0TQtu7iMaz6qMhtK8PfEnCguMLMfiT" alt=""><figcaption><p>กรณีมีผู้แนะนำ หน้าจอจะแสดงข้อมูลของผู้แนะนำ</p></figcaption></figure>
 
 ***
 
@@ -169,7 +167,7 @@ layout:
 * เลขบัญชี
 
 {% hint style="warning" %}
-**หมายเหตุ:**  
+**หมายเหตุ:**\
 ชื่อผู้สมัครต้องตรงกับชื่อบัญชีธนาคารที่ระบุ และกรุณาตรวจสอบข้อมูลให้ถูกต้อง เพื่อป้องกันความผิดพลาดในการโอนเงิน
 {% endhint %}
 
@@ -225,7 +223,7 @@ layout:
 เมื่อเลือกแผนเรียบร้อยแล้ว ให้กด **"ขั้นตอนต่อไป"** เพื่อดำเนินการต่อในขั้นตอนถัดไป
 
 {% hint style="info" %}
-**หมายเหตุ:**  
+**หมายเหตุ:**\
 ผู้รับผลประโยชน์ของประกันอุบัติเหตุส่วนบุคคล จะถูกกำหนดเป็น **ทายาทโดยธรรม** เท่านั้น
 {% endhint %}
 
@@ -291,7 +289,7 @@ layout:
 
 ### สรุปข้อมูลผู้สมัคร <a href="#summary" id="summary"></a>
 
-<figure><img src="../.gitbook/assets/summary-information.png" edit-bankalt=""><figcaption><p>สรุปข้อมูลผู้สมัคร</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/summary-information.png" alt=""><figcaption><p>สรุปข้อมูลผู้สมัคร</p></figcaption></figure>
 
 ระบบจะแสดงข้อมูลทั้งหมดของผู้สมัครเพื่อตรวจสอบ หากต้องการแก้ไขข้อมูลใด ให้กด **"แก้ไขข้อมูล"** ในหัวข้อที่ต้องการ
 
@@ -301,11 +299,11 @@ layout:
 
 สำหรับรูปที่ใช้ในกระบวนการยืนยันตัวตน (E-KYC) ระบบจะเพิ่มลายน้ำในรูปให้โดยอัตโนมัติเพื่อความปลอดภัย
 
-- **ยืนยันตัวตนสำเร็จ**
+* **ยืนยันตัวตนสำเร็จ**
 
 <figure><img src="../.gitbook/assets/ekyc-pass.png" alt=""><figcaption><p>การยืนยันตัวตนสำเร็จ</p></figcaption></figure>
 
-- **ยืนยันตัวตนไม่ผ่านเกณฑ์** เจ้าหน้าที่จะติดต่อกลับตามข้อมูลที่ระบุ
+* **ยืนยันตัวตนไม่ผ่านเกณฑ์** เจ้าหน้าที่จะติดต่อกลับตามข้อมูลที่ระบุ
 
 <figure><img src="../.gitbook/assets/ekyc-fail.png" alt=""><figcaption><p>การยืนยันตัวตนไม่ผ่านเกณฑ์</p></figcaption></figure>
 
@@ -319,13 +317,13 @@ layout:
 
 ผู้สมัครสามารถสแกน QR Code ด้วยแอปพลิเคชันธนาคารเพื่อทำการชำระเงิน
 
-- หากใช้สมาร์ทโฟน: บันทึก QR Code หรือแคปเจอร์หน้าจอ แล้วเปิดในแอปธนาคาร
-- หากใช้อุปกรณ์อื่น: สแกน QR Code ผ่านสมาร์ทโฟน
+* หากใช้สมาร์ทโฟน: บันทึก QR Code หรือแคปเจอร์หน้าจอ แล้วเปิดในแอปธนาคาร
+* หากใช้อุปกรณ์อื่น: สแกน QR Code ผ่านสมาร์ทโฟน
 
 เมื่อชำระเงินสำเร็จ ระบบจะแสดงสถานะ **รอการอนุมัติ** หากยังคงแสดง QR Code ให้กด **"ตรวจสอบสถานะการชำระเงิน"** เพื่อตรวจสอบอีกครั้ง
 
 {% hint style="warning" %}
-**หมายเหตุ:**  
+**หมายเหตุ:**\
 QR Code มีอายุ 48 ชั่วโมง กรุณาชำระเงินภายในเวลาที่กำหนด
 {% endhint %}
 
