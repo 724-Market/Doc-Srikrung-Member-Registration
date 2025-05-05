@@ -18,7 +18,7 @@ layout:
 
 > [**ag.724.co.th/srikrung**](https://ag.724.co.th/srikrung) หรือสแกน QR ด้านล่าง
 >
-> <img src="../.gitbook/assets/bit.ly_srikrung-registration.png" alt="" data-size="original">
+> <img src="../.gitbook/assets/qr-srikrung-registration.png" alt="" data-size="original">
 
 เมื่อเข้าลิงก์ คุณจะพบหน้าจอเริ่มต้นที่มีลักษณะดังนี้
 
