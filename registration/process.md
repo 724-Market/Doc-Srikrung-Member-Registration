@@ -69,7 +69,7 @@ layout:
 
 เมื่อตรวจสอบข้อมูลก่อนลงทะเบียนแล้วและสามารถดำเนินการต่อได้ ระบบจะแสดงหน้า **"ลงทะเบียนสมาชิกใหม่"** พร้อมข้อความ **"กรุณากรอกข้อมูลให้ครบถ้วน"**
 
-<figure><img src="../.gitbook/assets/preliminary-registration.png" alt=""><figcaption><p>หน้ากรอกข้อมูลผู้สมัคร</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/preliminary-registration-20261019.png" alt=""><figcaption><p>หน้ากรอกข้อมูลผู้สมัคร</p></figcaption></figure>
 
 กรอกข้อมูลในช่องที่มีเครื่องหมาย **\*** ให้ครบถ้วน ดังนี้
 
