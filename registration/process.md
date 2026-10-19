@@ -101,7 +101,7 @@ layout:
 
 หลังจากยืนยัน OTP สำเร็จ ระบบจะแสดงแบบฟอร์มสำหรับกรอกข้อมูลส่วนตัวในส่วนแรก
 
-<figure><img src="../.gitbook/assets/personal-information.png" alt=""><figcaption><p>ฟอร์มกรอกข้อมูลส่วนตัว</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/personal-information-20261019.png" alt=""><figcaption><p>ฟอร์มกรอกข้อมูลส่วนตัว</p></figcaption></figure>
 
 ข้อมูลที่ต้องกรอกเพิ่มเติมมีดังนี้
 
