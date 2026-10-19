@@ -22,7 +22,7 @@ layout:
 
 เมื่อเข้าลิงก์ คุณจะพบหน้าจอเริ่มต้นที่มีลักษณะดังนี้
 
-<figure><img src="../.gitbook/assets/verify-member.png" alt=""><figcaption><p>หน้าจอเริ่มต้นสำหรับสมัครสมาชิกศรีกรุงโบรคเกอร์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/registration-precheck-20261019.png" alt=""><figcaption><p>หน้าจอเริ่มต้นสำหรับสมัครสมาชิกศรีกรุงโบรคเกอร์</p></figcaption></figure>
 
 ***
 
@@ -42,7 +42,7 @@ layout:
 
 ตัวอย่างหน้าจอกรณีมีข้อมูลผู้แนะนำ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1nD0TQtu7iMaz6qMhtK8PfEnCguMLMfiT" alt=""><figcaption><p>กรณีมีผู้แนะนำ หน้าจอจะแสดงข้อมูลของผู้แนะนำ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/registration-precheck-20261019.png" alt=""><figcaption><p>กรณีมีผู้แนะนำ หน้าจอจะแสดงข้อมูลของผู้แนะนำ</p></figcaption></figure>
 
 ***
 
