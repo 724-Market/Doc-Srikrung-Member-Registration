@@ -22,7 +22,7 @@ layout:
 
 เมื่อเข้าลิงก์ คุณจะพบหน้าจอเริ่มต้นที่มีลักษณะดังนี้
 
-<figure><img src="../.gitbook/assets/registration-precheck-20261019.png" alt=""><figcaption><p>หน้าจอเริ่มต้นสำหรับสมัครสมาชิกศรีกรุงโบรคเกอร์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/registration-no-referrer-20261019.png" alt=""><figcaption><p>หน้าจอเริ่มต้นสำหรับสมัครสมาชิกศรีกรุงโบรคเกอร์</p></figcaption></figure>
 
 ***
 
