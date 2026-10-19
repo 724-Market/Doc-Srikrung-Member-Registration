@@ -18,11 +18,11 @@ layout:
 
 > [**ag.724.co.th/srikrung**](https://ag.724.co.th/srikrung) หรือสแกน QR ด้านล่าง
 >
-> <img src="../.gitbook/assets/qr-srikrung-registration.png" alt="" data-size="original">
+> <img src="../.gitbook/assets/qr-srikrung-registration.png" alt="" data-size="original" width="70%">
 
 เมื่อเข้าลิงก์ คุณจะพบหน้าจอเริ่มต้นที่มีลักษณะดังนี้
 
-<figure><img src="../.gitbook/assets/registration-no-referrer-20261019.png" alt=""><figcaption><p>หน้าจอเริ่มต้นสำหรับสมัครสมาชิกศรีกรุงโบรคเกอร์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/registration-no-referrer-20261019.png" alt="" width="70%"><figcaption><p>หน้าจอเริ่มต้นสำหรับสมัครสมาชิกศรีกรุงโบรคเกอร์</p></figcaption></figure>
 
 ***
 
@@ -42,7 +42,7 @@ layout:
 
 ตัวอย่างหน้าจอกรณีมีข้อมูลผู้แนะนำ
 
-<figure><img src="../.gitbook/assets/registration-precheck-20261019.png" alt=""><figcaption><p>กรณีมีผู้แนะนำ หน้าจอจะแสดงข้อมูลของผู้แนะนำ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/registration-precheck-20261019.png" alt="" width="70%"><figcaption><p>กรณีมีผู้แนะนำ หน้าจอจะแสดงข้อมูลของผู้แนะนำ</p></figcaption></figure>
 
 ***
 
@@ -61,7 +61,7 @@ layout:
 * หากตรวจสอบแล้ว **สามารถสมัครได้** ระบบจะนำคุณไปยังหน้า **"ลงทะเบียนสมาชิกใหม่"**
 * หากตรวจสอบแล้ว **ไม่สามารถสมัครได้** ระบบจะแสดงเหตุผล เช่น คุณเป็นสมาชิกอยู่แล้ว
 
-<figure><img src="../.gitbook/assets/already-member.png" alt=""><figcaption><p>กรณีไม่สามารถสมัครสมาชิกได้ เนื่องจากเป็นสมาชิกอยู่แล้ว</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/already-member.png" alt="" width="70%"><figcaption><p>กรณีไม่สามารถสมัครสมาชิกได้ เนื่องจากเป็นสมาชิกอยู่แล้ว</p></figcaption></figure>
 
 ***
 
@@ -69,7 +69,7 @@ layout:
 
 เมื่อตรวจสอบข้อมูลก่อนลงทะเบียนแล้วและสามารถดำเนินการต่อได้ ระบบจะแสดงหน้า **"ลงทะเบียนสมาชิกใหม่"** พร้อมข้อความ **"กรุณากรอกข้อมูลให้ครบถ้วน"**
 
-<figure><img src="../.gitbook/assets/preliminary-registration-20261019.png" alt=""><figcaption><p>หน้ากรอกข้อมูลผู้สมัคร</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/preliminary-registration-20261019.png" alt="" width="70%"><figcaption><p>หน้ากรอกข้อมูลผู้สมัคร</p></figcaption></figure>
 
 กรอกข้อมูลในช่องที่มีเครื่องหมาย **\*** ให้ครบถ้วน ดังนี้
 
@@ -85,7 +85,7 @@ layout:
 
 ### ยืนยัน OTP <a href="#otp-verification" id="otp-verification"></a>
 
-<figure><img src="../.gitbook/assets/otp-verification.png" alt=""><figcaption><p>ยืนยันหมายเลขโทรศัพท์ด้วย OTP</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/otp-verification.png" alt="" width="70%"><figcaption><p>ยืนยันหมายเลขโทรศัพท์ด้วย OTP</p></figcaption></figure>
 
 เพื่อความปลอดภัย ระบบจะส่งรหัส OTP (6 หลัก) ไปยังหมายเลขโทรศัพท์ที่คุณระบุไว้
 
@@ -101,7 +101,7 @@ layout:
 
 หลังจากยืนยัน OTP สำเร็จ ระบบจะแสดงแบบฟอร์มสำหรับกรอกข้อมูลส่วนตัวในส่วนแรก
 
-<figure><img src="../.gitbook/assets/personal-information-20261019.png" alt=""><figcaption><p>ฟอร์มกรอกข้อมูลส่วนตัว</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/personal-information-20261019.png" alt="" width="70%"><figcaption><p>ฟอร์มกรอกข้อมูลส่วนตัว</p></figcaption></figure>
 
 ข้อมูลที่ต้องกรอกเพิ่มเติมมีดังนี้
 
@@ -111,7 +111,7 @@ layout:
 * ที่อยู่จัดส่งเอกสาร (หากใช้ที่อยู่เดียวกับที่อยู่ปัจจุบัน ให้กดเลือกใช้ข้อมูลเดียวกัน)
 * สถานภาพ
 
-<figure><img src="../.gitbook/assets/address-form.png" alt=""><figcaption><p>หน้าจอสำหรับกรอกที่อยู่</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/address-form.png" alt="" width="70%"><figcaption><p>หน้าจอสำหรับกรอกที่อยู่</p></figcaption></figure>
 
 ### การกรอกข้อมูลสถานภาพ <a href="#personal-status" id="personal-status"></a>
 
@@ -121,7 +121,7 @@ layout:
   * ชื่อ
   * นามสกุล
 
-<figure><img src="../.gitbook/assets/personal-status.png" alt=""><figcaption><p>กรณีมีคู่สมรส ระบบจะแสดงช่องให้กรอกข้อมูลคู่สมรส</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/personal-status.png" alt="" width="70%"><figcaption><p>กรณีมีคู่สมรส ระบบจะแสดงช่องให้กรอกข้อมูลคู่สมรส</p></figcaption></figure>
 
 {% hint style="info" %}
 **หมายเหตุ:** คู่สมรสสามารถใช้สิทธิประโยชน์ส่วนลด หากนามสกุลตรงกัน
@@ -135,7 +135,7 @@ layout:
 
 ในส่วนนี้ คุณต้องกรอกข้อมูล **ผู้รับมรดกค่าสายงาน** ซึ่งจะได้รับผลประโยชน์ในกรณีเกิดเหตุสุดวิสัย ข้อมูลที่กรอกควรเป็นความจริงและถูกต้อง
 
-<figure><img src="../.gitbook/assets/beneficiary-information.png" alt=""><figcaption><p>ฟอร์มกรอกข้อมูลผู้รับมรดกค่าสายงาน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/beneficiary-information.png" alt="" width="70%"><figcaption><p>ฟอร์มกรอกข้อมูลผู้รับมรดกค่าสายงาน</p></figcaption></figure>
 
 ข้อมูลที่ต้องกรอกมีดังนี้
 
@@ -151,12 +151,12 @@ layout:
 
 ### ข้อมูลบัตรนายหน้า <a href="#license-information" id="license-information"></a>
 
-<figure><img src="../.gitbook/assets/license-information.png" alt=""><figcaption><p>ฟอร์มกรอกข้อมูลบัตรนายหน้าประกันวินาศภัย</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/license-information.png" alt="" width="70%"><figcaption><p>ฟอร์มกรอกข้อมูลบัตรนายหน้าประกันวินาศภัย</p></figcaption></figure>
 
 * หาก **ไม่มีใบอนุญาตนายหน้าประกันวินาศภัย** สามารถกดปุ่ม **"ไปต่อ"** เพื่อข้ามขั้นตอนนี้ได้ทันที
 * หาก **มีใบอนุญาตฯ** ระบบจะเชื่อมต่อและตรวจสอบข้อมูลโดยตรง กับสำนักงานคณะกรรมการกำกับและส่งเสริมการประกอบธุรกิจประกันภัย (คปภ.)
 
-<figure><img src="../.gitbook/assets/license-connect-oic.png" alt=""><figcaption><p>ระบบกำลังเชื่อมต่อข้อมูลกับ คปภ.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/license-connect-oic.png" alt="" width="70%"><figcaption><p>ระบบกำลังเชื่อมต่อข้อมูลกับ คปภ.</p></figcaption></figure>
 
 หากระบบไม่พบข้อมูลจาก คปภ. ผู้สมัครจะต้องกรอกข้อมูลด้วยตนเอง โดยระบุ
 
@@ -164,7 +164,7 @@ layout:
 * วันออกใบอนุญาต
 * วันใบอนุญาตหมดอายุ
 
-<figure><img src="../.gitbook/assets/license-manual.png" alt=""><figcaption><p>กรณีต้องกรอกข้อมูลบัตรนายหน้าด้วยตัวเอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/license-manual.png" alt="" width="70%"><figcaption><p>กรณีต้องกรอกข้อมูลบัตรนายหน้าด้วยตัวเอง</p></figcaption></figure>
 
 ***
 
@@ -172,7 +172,7 @@ layout:
 
 สำหรับผู้สมัครที่มีใบอนุญาตนายหน้าประกันวินาศภัย จะได้รับสิทธิ์รับค่าสายงานตามผลประโยชน์ของสมาชิก โดยต้องกรอกข้อมูลบัญชีธนาคารให้ถูกต้องเพื่อการโอนเงิน
 
-<figure><img src="../.gitbook/assets/bank-information.png" alt=""><figcaption><p>ฟอร์มกรอกข้อมูลธนาคารสำหรับรับค่าสายงาน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/bank-information.png" alt="" width="70%"><figcaption><p>ฟอร์มกรอกข้อมูลธนาคารสำหรับรับค่าสายงาน</p></figcaption></figure>
 
 ข้อมูลที่ต้องกรอกประกอบด้วย
 
@@ -192,7 +192,7 @@ layout:
 
 ### ข้อกำหนดและเงื่อนไขการเป็นสมาชิก <a href="#terms-conditions" id="terms-conditions"></a>
 
-<figure><img src="../.gitbook/assets/terms-conditions.png" alt=""><figcaption><p>ข้อกำหนดและเงื่อนไขการเป็นสมาชิกศรีกรุงโบรคเกอร์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/terms-conditions.png" alt="" width="70%"><figcaption><p>ข้อกำหนดและเงื่อนไขการเป็นสมาชิกศรีกรุงโบรคเกอร์</p></figcaption></figure>
 
 โปรดอ่านและทำความเข้าใจข้อกำหนดและเงื่อนไขก่อนสมัครสมาชิก หากยอมรับ ให้ทำเครื่องหมายที่ **"ข้าพเจ้าอ่านและเข้าใจในข้อตกลง เงื่อนไขต่างๆ รวมถึงยอมรับข้อกำหนดในการเป็นสมาชิกของ บริษัท ศรีกรุงโบรคเกอร์ จำกัด"** เพื่อยืนยัน
 
@@ -202,7 +202,7 @@ layout:
 
 ### การสร้างลายเซ็น <a href="#signature" id="signature"></a>
 
-<figure><img src="../.gitbook/assets/signature-form.png" alt=""><figcaption><p>พื้นที่สำหรับสร้างลายเซ็น</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/signature-form.png" alt="" width="70%"><figcaption><p>พื้นที่สำหรับสร้างลายเซ็น</p></figcaption></figure>
 
 ขั้นตอนการสร้างลายเซ็น
 
@@ -215,7 +215,7 @@ layout:
 
 ### นโยบายคุ้มครองข้อมูลส่วนบุคคล <a href="#pdpa" id="pdpa"></a>
 
-<figure><img src="../.gitbook/assets/pdpa.png" alt=""><figcaption><p>นโยบายคุ้มครองข้อมูลส่วนบุคคล</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/pdpa.png" alt="" width="70%"><figcaption><p>นโยบายคุ้มครองข้อมูลส่วนบุคคล</p></figcaption></figure>
 
 ตาม พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 โปรดอ่านนโยบายเกี่ยวกับการเก็บ ใช้ และเปิดเผยข้อมูลส่วนบุคคล หากเข้าใจและยอมรับ ให้ทำเครื่องหมายที่ **"ข้าพเจ้าอ่านและรับทราบนโยบายคุ้มครองข้อมูลส่วนบุคคลของ บริษัท ศรีกรุงโบรคเกอร์ จำกัด"**
 
@@ -225,15 +225,15 @@ layout:
 
 ### เลือกแผนประกันอุบัติเหตุส่วนบุคคล <a href="#pa" id="pa"></a>
 
-<figure><img src="../.gitbook/assets/pa.png" alt=""><figcaption><p>ค่าสมาชิกและแผนประกันอุบัติเหตุส่วนบุคคล</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/pa.png" alt="" width="70%"><figcaption><p>ค่าสมาชิกและแผนประกันอุบัติเหตุส่วนบุคคล</p></figcaption></figure>
 
 หลังกรอกข้อมูลครบ ระบบจะแสดงค่าสมาชิกที่ต้องชำระ พร้อมมอบ **ประกันอุบัติเหตุส่วนบุคคล (PA)** ฟรีสำหรับผู้สมัครทุกคน และหากผู้สมัครต้องการเพิ่มความคุ้มครอง สามารถกดปุ่ม **"เพิ่มความคุ้มครอง"** เพื่อเลือกแผนเพิ่มเติม
 
-<figure><img src="../.gitbook/assets/pa-selecting.png" alt=""><figcaption><p>เลือกแผนประกันอุบัติเหตุส่วนบุคคลเพิ่มเติม</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/pa-selecting.png" alt="" width="70%"><figcaption><p>เลือกแผนประกันอุบัติเหตุส่วนบุคคลเพิ่มเติม</p></figcaption></figure>
 
 มีแผนให้เลือกทั้งแบบมีค่ารักษาพยาบาลและไม่มีค่ารักษาพยาบาล ผู้สมัครสามารถเลือกได้ตามความต้องการ
 
-<figure><img src="../.gitbook/assets/pa-selected.png" alt=""><figcaption><p>กรณีเปลี่ยนแผนประกัน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/pa-selected.png" alt="" width="70%"><figcaption><p>กรณีเปลี่ยนแผนประกัน</p></figcaption></figure>
 
 เมื่อเลือกแผนเรียบร้อยแล้ว ให้กด **"ขั้นตอนต่อไป"** เพื่อดำเนินการต่อในขั้นตอนถัดไป
 
@@ -246,7 +246,7 @@ layout:
 
 ### การยืนยันตัวตนทางอิเล็กทรอนิกส์ (E-KYC) <a href="#ekyc" id="ekyc"></a>
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1ILQ1cIOyQGFNg7oFnv8OGhwBQgYg13Cj" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1ILQ1cIOyQGFNg7oFnv8OGhwBQgYg13Cj" alt="" width="70%"><figcaption></figcaption></figure>
 
 ขั้นตอนการยืนยันตัวตนทางอิเล็กทรอนิกส์ (E-KYC) ต้องทำรายการ ดังนี้ คลิกปุ่ม "คลิกเพื่อเปิดกล้อง" เพื่อให้ระบบเข้าถึงการใช้งานกล้องบนอุปกรณ์ของผู้ใช้งาน
 
@@ -261,18 +261,18 @@ layout:
 * รูปถ่ายด้านหน้าบัตรประชาชนต้องชัดเจน ไม่มีรอยขูดขีด
 * หลีกเลี่ยงแสงสะท้อนที่อาจเกิดขึ้นบนตัวบัตรประชาชน
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1V7otNYLOIyrVf3bsEtFT1MGYGfefaV9f" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1V7otNYLOIyrVf3bsEtFT1MGYGfefaV9f" alt="" width="70%"><figcaption></figcaption></figure>
 
 * หลังจากเปิดกล้องแล้ว ระบบจะแสดงกรอบบัตรประชาชน และแสดงข้อความแจ้งเตือนเลขบัตรประชาชนต้องตรงกับเลขบัตรประชาชนที่ใช้สมัครเท่านั้น
 * กดปุ่ม "ถ่ายรูปบัตรประชาชน" เพื่อทำการถ่ายหน้าบัตรประชาชนของผู้สมัคร
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1krnyvXeTeNakVOt5fgUhdLMH_FfE2oPY" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1krnyvXeTeNakVOt5fgUhdLMH_FfE2oPY" alt="" width="70%"><figcaption></figcaption></figure>
 
 * หากผู้ใช้งานต้องการถ่ายรูปใหม่อีกครั้งเนื่องจากรูปเบลอ ให้กดปุ่ม "ถ่ายใหม่อีกครั้ง" หรือ "เลือกรูปจากคลัง" ข้อมูลบนอุปกรณ์ก็สามารถทำได้ ระบบจะเปิดแหล่งเก็บไฟล์ให้ผู้ใช้งานเลือกรูปบัตรประชาชนจากแหล่งเก็บข้อมูล
 * ในกรณีผู้ใช้งานเลือกรูปจากคลัง ระบบจะแสดงรูปบัตรประชาชนที่ได้อัพโหลด
 * กดปุ่ม "ไปต่อ ขั้นตอนที่ 2" ระบบจะแสดงส่วนขั้นตอนที่ 2 ถ่ายรูปตัวตนบุคคล
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1ILQ1cIOyQGFNg7oFnv8OGhwBQgYg13Cj" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1ILQ1cIOyQGFNg7oFnv8OGhwBQgYg13Cj" alt="" width="70%"><figcaption></figcaption></figure>
 
 **ขั้นตอนที่ 2 ถ่ายรูปตัวบุคคล**
 
@@ -281,7 +281,7 @@ layout:
 * ไม่กระพริบตา หรี่ตา หรือทำรูปปากที่ผิดปกติ
 * ถ่ายรูปในที่ที่มีแสงสว่างเพียงพอ ไม่สว่างหรือมืดจนเกินไป
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1sCwNpLIOjMVemeFQJcAG21cRycYijGEU" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1sCwNpLIOjMVemeFQJcAG21cRycYijGEU" alt="" width="70%"><figcaption></figcaption></figure>
 
 * หากผู้ใช้งานต้องการถ่ายรูปใหม่อีกครั้งเนื่องจากรูปเบลอ ให้กดปุ่ม "ถ่ายใหม่อีกครั้ง"
 * กดปุ่ม "ยืนยันข้อมูล" ระบบจะตรวจสอบข้อมูลความถูกต้อง ดังนี้
@@ -292,7 +292,7 @@ layout:
 
 ระบบจะแสดงหน้าจอสรุปข้อมูลสมาชิกที่ผู้สมัครกรอกเข้ามาทั้งหมดทั้ง 2 กรณี " สำเร็จ" หรือ "ไม่ผ่านเกณฑ์" เพื่อให้ตรวจสอบอีกครั้ง หากพบว่าข้อมูลมีความผิดพลาด ผู้สมัครสามารถกดปุ่ม "แก้ไขข้อมูล" เพื่อกลับไปที่ส่วนที่ต้องการแก้ไขได้ (ยกเว้นเลขบัตรประชาชนที่ไม่สามารถแก้ไขได้)
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1RM0eobL_RJlVq5o2a7GPL34r3Dj7uRDR" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1RM0eobL_RJlVq5o2a7GPL34r3Dj7uRDR" alt="" width="70%"><figcaption></figcaption></figure>
 
 **กรณีการยืนยันตัวตน (E-KYC) ผลการยืนยันตัวตน: ไม่ผ่านเกณฑ์**
 
@@ -304,23 +304,23 @@ layout:
 
 ### สรุปข้อมูลผู้สมัคร <a href="#summary" id="summary"></a>
 
-<figure><img src="../.gitbook/assets/summary-information.png" alt=""><figcaption><p>สรุปข้อมูลผู้สมัคร</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/summary-information.png" alt="" width="70%"><figcaption><p>สรุปข้อมูลผู้สมัคร</p></figcaption></figure>
 
 ระบบจะแสดงข้อมูลทั้งหมดของผู้สมัครเพื่อตรวจสอบ หากต้องการแก้ไขข้อมูลใด ให้กด **"แก้ไขข้อมูล"** ในหัวข้อที่ต้องการ
 
 ตัวอย่าง หากต้องการแก้ไขข้อมูลธนาคาร ให้ไปที่หัวข้อ **ข้อมูลธนาคาร** แล้วกดปุ่ม **"แก้ไขข้อมูล"**
 
-<figure><img src="../.gitbook/assets/edit-bank.png" alt=""><figcaption><p>ตัวอย่างหน้าจอการแก้ไขข้อมูลธนาคาร</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/edit-bank.png" alt="" width="70%"><figcaption><p>ตัวอย่างหน้าจอการแก้ไขข้อมูลธนาคาร</p></figcaption></figure>
 
 สำหรับรูปที่ใช้ในกระบวนการยืนยันตัวตน (E-KYC) ระบบจะเพิ่มลายน้ำในรูปให้โดยอัตโนมัติเพื่อความปลอดภัย
 
 * **ยืนยันตัวตนสำเร็จ**
 
-<figure><img src="../.gitbook/assets/ekyc-pass.png" alt=""><figcaption><p>การยืนยันตัวตนสำเร็จ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ekyc-pass.png" alt="" width="70%"><figcaption><p>การยืนยันตัวตนสำเร็จ</p></figcaption></figure>
 
 * **ยืนยันตัวตนไม่ผ่านเกณฑ์** เจ้าหน้าที่จะติดต่อกลับตามข้อมูลที่ระบุ
 
-<figure><img src="../.gitbook/assets/ekyc-fail.png" alt=""><figcaption><p>การยืนยันตัวตนไม่ผ่านเกณฑ์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ekyc-fail.png" alt="" width="70%"><figcaption><p>การยืนยันตัวตนไม่ผ่านเกณฑ์</p></figcaption></figure>
 
 เมื่อข้อมูลถูกต้องครบถ้วน กด **"ยืนยันข้อมูลและชำระเงิน"** เพื่อดำเนินการต่อ
 
@@ -328,7 +328,7 @@ layout:
 
 ### การชำระเงิน <a href="#payment" id="payment"></a>
 
-<figure><img src="../.gitbook/assets/payment-qr.png" alt=""><figcaption><p>หน้าจอแสดง QR Code สำหรับการชำระเงิน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/payment-qr.png" alt="" width="70%"><figcaption><p>หน้าจอแสดง QR Code สำหรับการชำระเงิน</p></figcaption></figure>
 
 ผู้สมัครสามารถสแกน QR Code ด้วยแอปพลิเคชันธนาคารเพื่อทำการชำระเงิน
 
@@ -342,6 +342,6 @@ layout:
 QR Code มีอายุ 48 ชั่วโมง กรุณาชำระเงินภายในเวลาที่กำหนด
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/thanks.png" alt=""><figcaption><p>ชำระเงินสำเร็จและรอการอนุมัติ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/thanks.png" alt="" width="70%"><figcaption><p>ชำระเงินสำเร็จและรอการอนุมัติ</p></figcaption></figure>
 
 **ขั้นตอนถัดไป** เจ้าหน้าที่จะตรวจสอบข้อมูลและแจ้งผลอนุมัติผ่าน SMS ภายใน 1 วันทำการ
