@@ -16,7 +16,7 @@ layout:
 
 สำหรับการสมัครสมาชิกศรีกรุงโบรคเกอร์ คุณสามารถทำได้โดยเปิดเว็บเบราว์เซอร์แล้วพิมพ์ที่อยู่ (URL) ต่อไปนี้
 
-> [**ag.724.co.th/srikrung**](https://ag.724.co.th/srikrung) หรือสแกน QR ด้านล่าง
+> ag.724.co.th/srikrung หรือสแกน QR ด้านล่าง
 >
 > <img src="../.gitbook/assets/qr-srikrung-registration.png" alt="" data-size="original" width="70%">
 
